@@ -9,7 +9,6 @@ pin: true
 math: true
 mermaid: true
 ---
-# Establish Personal Website with Chirpy
 ## Create new repository
 - Establish a new repository with following template
 https://github.com/cotes2020/chirpy-starter
